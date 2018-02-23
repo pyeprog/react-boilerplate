@@ -17,5 +17,5 @@ module.exports = {
       test: /\.s?css$/,
     }]
   },
-  devtool: 'simple-eval-source-map'
+  devtool: 'simple-module-eval-source-map'
 }
